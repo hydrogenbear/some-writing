@@ -1,18 +1,21 @@
-# Rethinking the Initial Concept
+# Reassessing the Poption Project
 
-## Reflecting on the Journey of Poption
+## Insights from the Poption Endeavor
 
-Over the past two years, I've been dedicated to developing a DeFi derivative known as Poption. However, I've recently decided to abandon this project. My initial belief in DeFi as a solution to the challenges I sought to address has waned. I'd like to share my thoughts and experiences on this journey with you, maybe we still can learn something from failure.
+For the past two years, I have been engrossed in developing a DeFi derivative called Poption. Despite my efforts, I've decided to move away from this venture. My confidence in DeFi as a solution to the problems I aimed to solve has diminished. Nevertheless, I believe there's value in sharing the lessons learned from this experience, as we can often gain insights even from endeavors that don't pan out as expected.
 
-## Challenges in the Financial World
-The economic landscape two years ago was marked by several extraordinary events in quick succession: the GME short squeeze, the WTI negative pricing, and the London Nickel squeeze. These incidents sparked my interest in devising ways to prevent such financial anomalies. I believe the following measures could be help:
+## Identifying Financial Market Challenges
 
-1. **Contract Clarity:** Contracts need clear definitions from the outset. Amending a contract to change a non-negative number to an arbitrary real number mid-course can be disastrous. Any changes should be approached with extreme caution.
-2. **Native market:** Utilizing distant markets with only similar products for hedging can introduce significant, unforeseen risks.
-3. **Better option trade unit:** The market should avoid unnecessary naked short selling. As suggested by Elon Musk, Large players selling what they don't own is unfair. Instead, market makers could sell option combinations  like call/put spreads or butterflies as atomic to avoid to open high naked position, thereby mitigating risks like those seen in the GME situation.
+The financial landscape two years ago was punctuated by several significant events: the GME short squeeze, WTI's dive into negative pricing, and the London Nickel squeeze. These events inspired me to explore strategies to prevent such market anomalies. I came up with several approaches that could offer solutions:
 
-## The Blockchain Solution and its Downfall
+1. **Contractual Precision:** It is crucial to have precise and unambiguous contracts from the start. Mid-course alterations, like changing a non-negative number to an arbitrary one, can lead to chaos. Thus, any contract modifications must be handled with utmost care.
+2. **Hedging on Native Markets:** Relying on distant markets with only similar products for hedging introduces substantial and unforeseen risks.
+3. **Rethinking the Atom unit in Option Trading:** The market should aim to reduce unnecessary naked short selling. Echoing Elon Musk's views, it is unfair for large entities to sell what they don't own. A viable alternative could be for market makers to trade in bundled option strategies such as call/put spreads or butterflies, which can help in managing high-risk positions more responsibly, as seen in the GME scenario.
 
-Initially, I believed blockchain could be the solution. Its trustless system and clearly defined smart contracts seemed ideal to provide **contract clarity** and **native market**. I envisioned a decentralized exchange (DEX) on the blockchain. The Dex enable people to trade my key inovation, Poption, a variant of the traditional option offering high capital efficiency without the need for naked selling.
+## Blockchain: Potential and Pitfalls
 
-A significant barrier was the lack of a substantial derivatives market within the blockchain domain. The traditional assert already servered by the traditional derivatve market. The crypto itself is high risk. There is little requirement to use derivatives to extract risk and swap them. Another problem is that the DeFi is not good enough, it is much more expansive. 
+Initially, I was optimistic about blockchain being the panacea. Its trustless nature and the clarity of smart contracts seemed to perfectly align with the needs for **contractual precision** and establishing **native markets**. My plan included a decentralized exchange (DEX) on the blockchain, facilitating trades in Poption, my innovative derivative designed to offer the benefits of traditional options but without the necessity for naked selling.
+
+However, I encountered significant roadblocks. The lack of a robust derivatives market in the blockchain space was a major impediment. Traditional assets already well-served by conventional derivative markets didn't transition well into this new space. Furthermore, the inherent high-risk nature of cryptocurrencies reduced the demand for derivatives to manage and swap risks. Another critical issue was the inefficiency of DeFi; it proved to be more costly compared to traditional finance methods. 
+
+This journey, though not successful in its original goals, has been a profound learning experience about the complexities and nuances of financial markets and the potential, yet limitations, of emerging technologies like blockchain.
