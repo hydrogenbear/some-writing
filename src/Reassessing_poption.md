@@ -1,7 +1,5 @@
 # Reassessing the Poption Project
 
-## Insights from the Poption Endeavor
-
 For the past two years, I have been engrossed in developing a DeFi derivative called Poption. Despite my efforts, I've decided to move away from this venture. My confidence in DeFi as a solution to the problems I aimed to solve has diminished. Nevertheless, I believe there's value in sharing the lessons learned from this experience, as we can often gain insights even from endeavors that don't pan out as expected.
 
 ## Identifying Financial Market Challenges
