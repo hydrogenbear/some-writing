@@ -16,47 +16,26 @@ The financial landscape two years ago was punctuated by several significant even
 
 Initially, I was optimistic about blockchain being the panacea. Its trustless nature and the clarity of smart contracts seemed to perfectly align with the needs for **contractual precision** and establishing **native markets**. My plan included a decentralized exchange (DEX) on the blockchain, facilitating trades in Poption, my innovative derivative designed to offer the benefits of traditional options but without the necessity for naked selling.
 
-However, I encountered significant roadblocks. The lack of a robust derivatives market in the blockchain space was a major impediment. Traditional assets already well-served by conventional derivative markets didn't transition well into this new space. Furthermore, the inherent high-risk nature of cryptocurrencies reduced the demand for derivatives to manage and swap risks. Another critical issue was the inefficiency of DeFi; it proved to be more costly compared to traditional finance methods. 
+However, I encountered significant roadblocks. The absence of a robust derivatives market in the blockchain space posed a major impediment. Traditional assets, already well-served by conventional derivatives markets, did not transition smoothly into this new domain (e.g., tokenized gold exists, but it sees little trading activity). Moreover, the inherently high-risk nature of cryptocurrencies diminished the demand for derivatives to manage and exchange risks. Another critical issue was the inefficiency of DeFi; it proved to be not only more costly but also more susceptible to front-running compared to traditional finance methods.
 
+The Poption project's reflections serve as a valuable learning resource for navigating the complex interplay between technological innovation and financial market dynamics. While the path to integrating blockchain with financial derivatives remains fraught with challenges, the lessons learned pave the way for more nuanced, practical approaches in the future.
 
-## Key Insights from the Project
+## Insights Gained from the Project
 
-Although the project didn't achieve its original goals, it offered valuable learning experiences. Here are some key concepts that I believe are still relevant and beneficial:
+Although the project did not meet its initial objectives, it provided invaluable learning opportunities. Below are several key insights that have broader relevance beyond just the blockchain domain:
 
 ### Code as Contract
-The "code as contract" concept represents a major shift in how we approach agreements in the digital era. Unlike traditional software standards that relied heavily on textual documentation, modern practices are increasingly integrating these standards directly into software. This approach offers several advantages:
 
-1. **Determinism:** Software ensures consistent, predetermined outcomes. This contrasts with document-based contracts that are open to varied interpretations, as code provides a clear, uniform execution path.
-2. **Simulatability:** Code enables users to simulate different scenarios, offering insights into potential outcomes and allowing for a more practical understanding of the contract in various contexts.
+The growing trend of encoding protocols directly into software is reducing the ambiguity of traditional text-based contracts, offering a clearer and more accurate way to establish agreements. Despite the advantages, the risk of bugs presents a significant challenge. Nonetheless, the "code as contract" concept is poised to become increasingly important, especially as we enter the AI era, indicating its crucial role in future developments.
 
-The emergence of 'smart contracts' in blockchain technology highlights this concept's advancement and its potential to revolutionize contract theory and practice, despite current challenges.
+### Hedging in Native Markets
 
-#### Advantages
+Blockchain technology offers potential solutions for hedging in native markets, primarily by enhancing transparency and security. This approach could involve the off-chain management of storage and the tokenization of products, complemented by on-chain trading and derivatives activities for added complexity. Despite current challenges, such as technological limitations, regulatory uncertainty, and a lack of trust, blockchain has the potential to become a valuable addition to the traditional financial ecosystem. It can offer specialized options that existing systems might not provide.
 
-* **Automation and Precision:**
-  Smart contracts automate contractual obligations, executing predefined actions automatically under certain conditions. This precision and automation streamline transactions, making them quicker and more cost-effective.
-  
-* **Accessibility and Efficiency:**
-  Smart contracts are more accessible compared to traditional legal contracts. They are designed for straightforwardness, reducing the need for extensive legal knowledge and making them more understandable to those without a legal background, although a basic understanding of coding is necessary.
-
-#### Challenges
-  However, "smart contracts" come with their own set of challenges. Key issues include:
-
-* **Risk of Bugs:** The potential for bugs in smart contracts is a significant concern, as they can cause considerable losses. With increasing complexity, ensuring bug-free code becomes more difficult. Auditing is a solution, but it can be costly, often exceeding the expenses of traditional legal or accounting services.
-  
-* **Limited Real-World Applicability:** Smart contracts have restricted utility in real-world legal situations. They are accepted as they are, which can be limiting, particularly in cases requiring legal intervention or court resolution.
-
-#### Potential for Development
-The "code as contract" concept is continually evolving. 
-
-(I want to expand this paragraph. Tell some thing like in AI era, 'code as contract' may change the world. But something shall be done, 1. EVM will not be the future. Gas calculating is rediculars. Machine pay more cpu circus in the gas calculation than the actural calculation. EVM is too weak to do a lot of things. it is something from acient area. A modern account system usually containing a db based resistant system. A parallable processisten.)
-
-
-#### Hedging in Native Markets
-
-Blockchain technology has the potential to fulfill the hedging requirements of native markets by enhancing transparency and security. In such a system, off-chain facilities could manage storage and the tokenization of real products, ensuring simplicity and legal stability. Meanwhile, the trading and derivatives transactions could be handled on the blockchain, accommodating more complex operations. Currently, this concept faces hurdles due to technological limitations, regulatory uncertainties, and a lack of widespread understanding and trust in blockchain. Over time, as these challenges are overcome, blockchain could surpass traditional financial hubs like Chicago or London in offering more efficient and secure hedging services.
-
-#### Making Option Trading Safer
+### Safer Option Trading Strategies
 
 To enhance safety in the options market, we could minimize trades that carry high risk during rare market events. Typically, selling a call option and a bull spread call (with a high high strick price) (a safer trade with limited loss potential) perform similarly under normal conditions. However, their outcomes diverge significantly during market anomalies, such as sharp price increases. A naked call, where the seller doesn't hold the underlying asset, carries greater risk compared to a bull spread call. By altering the standard practices of traders, particularly market makers, we can foster a more secure trading environment. Shifting the basic trading unit from simple calls or puts to structured strategies like spread calls/puts or butterflies could reduce overall market risk, benefiting nearly all participants by making trading inherently safer.
 
+## Conclusion
+
+The Poption project, while not achieving its intended goals, has provided profound insights into the intersection of blockchain technology and financial market innovations. The exploration into DeFi derivatives like Poption reveals both the transformative potential and the inherent challenges of leveraging blockchain for financial instruments. Despite the hurdles encountered, such as the lack of a mature derivatives market in the blockchain space and the inefficiencies of DeFi, the project underscores the importance of innovation, precision in contracts, and the exploration of new hedging strategies in native markets.
