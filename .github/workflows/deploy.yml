@@ -1,12 +1,11 @@
 name: mdbook deploy to github pages
+run-name: deploy to github pages 🚀
 
 on:
   push:
     branches:
       - main
-  pull_request:
-    branches:
-      - main
+
 jobs:
   Build:
     runs-on: ubuntu-latest
